@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("testApp", "Hello!");
         Log.d("testApp", "See me if success!");
+        Log.d("testApp", "Try to change in more than one file!");
     }
 }
